@@ -9,9 +9,9 @@ I'm a web developer who is passionate about making the web more accessible. Curr
 
 ## What I’m currently learning 🌱
 - Data Structures and Algorthms
--- Linked Tables
--- Binary Trees
--- Hash Tables
+  - Linked Tables
+  - Binary Trees
+  - Hash Tables
 
 ## Find me on the web 🌎:
 
