@@ -5,10 +5,13 @@
 I'm a web developer who is passionate about making the web more accessible. Currently, I am enrolled in [Lambda School](www.lambdaschool.com) for Full Stack Web Development & Computer Science. My favorite technologies is ReactJS and I enjoy building RESTful APIs with Express and PostgreSQL.
 
 ##  What I’m currently working on 🔭:
-- Lambda School - Labs Project - [TidyHive](www.tidyhive.life)
+- Nothing
 
 ## What I’m currently learning 🌱
-- Advance React
+- Data Structures and Algorthms
+-- Linked Tables
+-- Binary Trees
+-- Hash Tables
 
 ## Find me on the web 🌎:
 
