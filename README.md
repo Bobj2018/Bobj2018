@@ -5,7 +5,7 @@
 I'm a web developer who is passionate about making the web more accessible. I enrolled in [Lambda School](www.lambdaschool.com) in order to improve my skills as a web developer. My favorite technologies is ReactJS and I enjoy building RESTful APIs with Express and PostgreSQL. In my freetime, I enjoy reading and composing music.
 
 ##  What I’m currently working on 🔭:
-- Nothing
+- Improving Portfolio Experience :)
 
 ## What I’m currently learning 🌱
 - Website Design - UI
